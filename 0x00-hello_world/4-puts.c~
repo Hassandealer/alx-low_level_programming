@@ -1,8 +1,9 @@
 #include <stdio.h>
+
 /**
  * main-Printing
  *
- * return:0
+ * return: always 0 (succes)
  */
 int main(void)
 {
