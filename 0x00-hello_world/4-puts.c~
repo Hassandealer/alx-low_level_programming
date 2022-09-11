@@ -1,7 +1,7 @@
-touch 4-puts.c
-#include<stdio.h>
+#include <stdio.h>
 /**
- * main-main block
+ * main-Printing
+ *
  * return:0
  */
 int main(void)
