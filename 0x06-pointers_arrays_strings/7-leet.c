@@ -19,10 +19,8 @@ char *leet(char *str)
 					str[indx1] - 32 == leet[indx2])                                                                           
 				str[indx1] = indx2 + '0';                                                                             
 		}                                                                                                                     
-
 		indx1++;                                                                                                              
 	}                                                                                                                             
 
 	return (str);                                                                                                                 
 }
-
