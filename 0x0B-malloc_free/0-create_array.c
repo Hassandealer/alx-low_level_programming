@@ -1,5 +1,4 @@
 #include "main.h"
-#include <stdlib.h>
 
 /** a function that creates an array of chars, and initializes it with a specific char.
  *Returns NULL if size = 0
