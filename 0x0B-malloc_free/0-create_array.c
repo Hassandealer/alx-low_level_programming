@@ -1,9 +1,12 @@
-#include "main.h"
+i#include "main.h"
 
-/** a function that creates an array of chars
+/**
+ * create_array - creates an array of chars, and
  * initializes it with a specific char.
- * Returns NULL if size=0
- * Returns a pointer to the array, or NULL if it fails 
+ *@size: Size of the array
+ *@c: Character to insert
+ *Return: NULL if size is zero or if it fails,
+ *pointer to array if everything is normal.
  */
 
 char *create_array(unsigned int size, char c)
